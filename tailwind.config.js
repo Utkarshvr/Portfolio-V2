@@ -17,11 +17,3 @@ module.exports = {
   },
   plugins: [],
 };
-
-// primary: "#3040E5",
-// "black-1": "#050519",
-// "black-2": "#D9D9D9",
-// "white-1": "#FFFFFF",
-// "white-2": "rgba(255,255,255,0.75)",
-// "bg-dark": "#2A2A36",
-// "bg-light": "#F4F6FB",
